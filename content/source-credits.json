@@ -40,18 +40,30 @@
       "source": "https://www.youtube.com/watch?v=0cVuVnq3oGE",
       "thumbnail_source": "https://i1.ytimg.com/vi/0cVuVnq3oGE/hqdefault.jpg",
       "use": "Jesse’s supplied Big Drum Digital video, local poster for click-to-play introduction"
+    },
+    {
+      "files": [
+        "assets/katie-baum.webp",
+        "assets/kris-kooi.jpg"
+      ],
+      "source": "Photos supplied by Jesse on September 30, 2026",
+      "use": "Katie Baum and Kris Kooi customer portraits, with CSS framing for the reviews"
     }
   ],
   "reviews": [
     {
       "name": "katie baum",
       "quote": "They are organized and quick to help whenever we need their assistance.",
-      "source": "https://www.google.com/maps/contrib/107097001711105003673/reviews?hl=en"
+      "source": "https://www.google.com/maps/contrib/107097001711105003673/reviews?hl=en",
+      "display_name": "Katie Baum",
+      "portrait_supplied_by": "Jesse"
     },
     {
       "name": "K Kooi",
       "quote": "I would highly recommend Big Drum Digital.",
-      "source": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s118338501112644265660!2s0x80832797db570393:0xfc2b6ecab6a33471"
+      "source": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s118338501112644265660!2s0x80832797db570393:0xfc2b6ecab6a33471",
+      "display_name": "Kris Kooi",
+      "portrait_supplied_by": "Jesse"
     },
     {
       "name": "Diana Zalucky",
@@ -66,6 +78,12 @@
     {
       "name": "Mary Pratt",
       "quote": "his approach is calm and precise.",
+      "source": "https://jessehall.com/"
+    },
+    {
+      "name": "Theo Chilicas",
+      "role": "CEO, GoDo",
+      "quote": "I cannot speak highly enough of Jesse, my go-to app and web developer for my businesses and clients.",
       "source": "https://jessehall.com/"
     }
   ],
@@ -92,5 +110,10 @@
       "source": "https://mobbin.com/sites/sections/caa1a6b1-4b01-4b6a-8d30-df5454015bbf",
       "use": "Strong headings with compact supporting image and copy"
     }
-  ]
+  ],
+  "brand_mark": {
+    "file": "assets/drum-mark.svg",
+    "source": "Big Drum logo supplied by Jesse",
+    "use": "Vector drum mark replacing font-dependent circle glyphs"
+  }
 }
