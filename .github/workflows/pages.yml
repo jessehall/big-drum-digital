@@ -23,6 +23,7 @@ jobs:
           mkdir _site
           cp index.html styles.css app.js privacy.html 404.html robots.txt .nojekyll _site/
           cp -r assets learn privacy _site/
+          python3 scripts/stamp-assets.py _site
           if [ -f CNAME ]; then cp CNAME _site/; fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4

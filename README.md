@@ -25,3 +25,5 @@ Palette sampled from JesseHall.com Elementor global CSS: yellow #F8C805, peach #
 ## Copy structure
 
 Customer goal, time and clarity problem, an experienced guide, three-step plan, direct goal inquiry, useful DIY alternative, and a picture of steady progress. Pricing is a conversation CTA rather than checkout.
+
+Shared CSS, JavaScript, and favicon URLs include content hashes. The deployment workflow stamps those URLs automatically so browser caches do not mix an updated page with older assets. Run `python3 scripts/stamp-assets.py` after changing shared assets locally.
