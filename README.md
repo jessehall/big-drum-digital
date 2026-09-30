@@ -25,3 +25,7 @@ Palette sampled from JesseHall.com Elementor global CSS: yellow #F8C805, peach #
 ## Copy structure
 
 Customer goal, time and clarity problem, an experienced guide, three-step plan, direct goal inquiry, useful DIY alternative, and a picture of steady progress. Pricing is a conversation CTA rather than checkout.
+
+## V2 preview implementation
+
+The learning page contains the original 10 free guides and 90 expandable draft actions. `content/learning-roadmap.json` is the editorial source. Email signup is visibly inactive until a provider and server-side gate are connected. No passwords, subscription details, or supposedly protected tutorials are shipped as an access-controlled public bundle. Media cards are honest coming-soon states. Replace them with accessible video and audio players when real media is available. All staging HTML is marked noindex.

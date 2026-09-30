@@ -1,0 +1,692 @@
+[
+  {
+    "number": 1,
+    "title": "Anatomy of a well-converting site",
+    "category": "Website",
+    "status": "free tutorial"
+  },
+  {
+    "number": 2,
+    "title": "The landing page formula",
+    "category": "Website",
+    "status": "free tutorial"
+  },
+  {
+    "number": 3,
+    "title": "A prompt-based CMS",
+    "category": "Website",
+    "status": "free tutorial"
+  },
+  {
+    "number": 4,
+    "title": "Write a clear homepage headline",
+    "category": "Website",
+    "status": "free tutorial"
+  },
+  {
+    "number": 5,
+    "title": "Ask for an honest review",
+    "category": "Get found",
+    "status": "free tutorial"
+  },
+  {
+    "number": 6,
+    "title": "Check your business listing",
+    "category": "Get found",
+    "status": "free tutorial"
+  },
+  {
+    "number": 7,
+    "title": "Choose a clear call to action",
+    "category": "Website",
+    "status": "free tutorial"
+  },
+  {
+    "number": 8,
+    "title": "Follow up on an inquiry",
+    "category": "More inquiries",
+    "status": "free tutorial"
+  },
+  {
+    "number": 9,
+    "title": "Make a referral easy",
+    "category": "More inquiries",
+    "status": "free tutorial"
+  },
+  {
+    "number": 10,
+    "title": "Choose a 90-day goal",
+    "category": "Planning",
+    "status": "free tutorial"
+  },
+  {
+    "number": 11,
+    "title": "Check your website link",
+    "category": "Get found",
+    "action": "Open the website link on each business listing and correct any outdated address.",
+    "status": "draft action"
+  },
+  {
+    "number": 12,
+    "title": "Update holiday hours",
+    "category": "Get found",
+    "action": "Check your next holiday opening hours and update your business listing.",
+    "status": "draft action"
+  },
+  {
+    "number": 13,
+    "title": "Add a real business photo",
+    "category": "Get found",
+    "action": "Choose a recent, accurate photo of your business and add it to your listing.",
+    "status": "draft action"
+  },
+  {
+    "number": 14,
+    "title": "Review your service area",
+    "category": "Get found",
+    "action": "Compare your public service area with where you actually work and fix mismatches.",
+    "status": "draft action"
+  },
+  {
+    "number": 15,
+    "title": "Check your main category",
+    "category": "Get found",
+    "action": "Choose the business category that most accurately describes your core service.",
+    "status": "draft action"
+  },
+  {
+    "number": 16,
+    "title": "Add your core services",
+    "category": "Get found",
+    "action": "List the services customers can actually book, using their everyday names.",
+    "status": "draft action"
+  },
+  {
+    "number": 17,
+    "title": "Check your directory details",
+    "category": "Get found",
+    "action": "Compare your name, address, and phone on your three most important listings.",
+    "status": "draft action"
+  },
+  {
+    "number": 18,
+    "title": "Read your latest reviews",
+    "category": "Get found",
+    "action": "Read your last ten reviews and note the questions and praise that repeat.",
+    "status": "draft action"
+  },
+  {
+    "number": 19,
+    "title": "Answer a customer review",
+    "category": "Get found",
+    "action": "Reply to one review with a helpful, personal response that respects privacy.",
+    "status": "draft action"
+  },
+  {
+    "number": 20,
+    "title": "Find one local partner",
+    "category": "Get found",
+    "action": "List a complementary local business that serves customers you can help.",
+    "status": "draft action"
+  },
+  {
+    "number": 21,
+    "title": "Make your phone number tappable",
+    "category": "Website",
+    "action": "Test the phone number on your site from a mobile phone. Make sure it opens a call.",
+    "status": "draft action"
+  },
+  {
+    "number": 22,
+    "title": "Check your contact details",
+    "category": "Website",
+    "action": "Compare your contact page with your current phone, email, hours, and address.",
+    "status": "draft action"
+  },
+  {
+    "number": 23,
+    "title": "Remove a broken link",
+    "category": "Website",
+    "action": "Click your main navigation links and repair the first broken destination you find.",
+    "status": "draft action"
+  },
+  {
+    "number": 24,
+    "title": "Shorten your inquiry form",
+    "category": "Website",
+    "action": "Remove one field you do not need for the first conversation.",
+    "status": "draft action"
+  },
+  {
+    "number": 25,
+    "title": "Explain what happens after a form",
+    "category": "Website",
+    "action": "Add a realistic response time next to your inquiry form.",
+    "status": "draft action"
+  },
+  {
+    "number": 26,
+    "title": "Write a useful page title",
+    "category": "Website",
+    "action": "Give one service page a title that names its service and business.",
+    "status": "draft action"
+  },
+  {
+    "number": 27,
+    "title": "Describe an important image",
+    "category": "Website",
+    "action": "Add helpful alternative text to one meaningful image. Leave decorative images silent.",
+    "status": "draft action"
+  },
+  {
+    "number": 28,
+    "title": "Check your page on a phone",
+    "category": "Website",
+    "action": "Read a service page on your phone and fix text that is too small or clipped.",
+    "status": "draft action"
+  },
+  {
+    "number": 29,
+    "title": "Make your button easy to tap",
+    "category": "Website",
+    "action": "Check that your main mobile button has enough space around it and is easy to use.",
+    "status": "draft action"
+  },
+  {
+    "number": 30,
+    "title": "Back up your site",
+    "category": "Website",
+    "action": "Confirm you have a current backup and know how to restore it.",
+    "status": "draft action"
+  },
+  {
+    "number": 31,
+    "title": "Describe your best-fit customer",
+    "category": "Messaging",
+    "action": "Write one sentence naming the people your business helps most.",
+    "status": "draft action"
+  },
+  {
+    "number": 32,
+    "title": "Name the problem you solve",
+    "category": "Messaging",
+    "action": "Write the customer problem in words you hear in real conversations.",
+    "status": "draft action"
+  },
+  {
+    "number": 33,
+    "title": "Write one clear service description",
+    "category": "Messaging",
+    "action": "Explain one service without jargon, including what the customer receives.",
+    "status": "draft action"
+  },
+  {
+    "number": 34,
+    "title": "Replace a vague claim",
+    "category": "Messaging",
+    "action": "Replace \u201cbest quality\u201d with an accurate detail about your process or product.",
+    "status": "draft action"
+  },
+  {
+    "number": 35,
+    "title": "Answer the price question",
+    "category": "Messaging",
+    "action": "Explain how pricing works and what a customer needs to get an estimate.",
+    "status": "draft action"
+  },
+  {
+    "number": 36,
+    "title": "Answer one common objection",
+    "category": "Messaging",
+    "action": "Add an honest answer to a question that frequently delays a purchase.",
+    "status": "draft action"
+  },
+  {
+    "number": 37,
+    "title": "Explain your service area",
+    "category": "Messaging",
+    "action": "Tell customers where you work and any limits they should know about.",
+    "status": "draft action"
+  },
+  {
+    "number": 38,
+    "title": "Write a three-step plan",
+    "category": "Messaging",
+    "action": "Describe how someone starts, what you do, and what they receive.",
+    "status": "draft action"
+  },
+  {
+    "number": 39,
+    "title": "Make a guarantee specific",
+    "category": "Messaging",
+    "action": "If you offer a guarantee, state its time frame, coverage, and conditions clearly.",
+    "status": "draft action"
+  },
+  {
+    "number": 40,
+    "title": "Read your copy aloud",
+    "category": "Messaging",
+    "action": "Read a page aloud and simplify sentences that sound unnatural.",
+    "status": "draft action"
+  },
+  {
+    "number": 41,
+    "title": "Request testimonial permission",
+    "category": "Trust",
+    "action": "Ask one customer if you may publish their genuine feedback with attribution.",
+    "status": "draft action"
+  },
+  {
+    "number": 42,
+    "title": "Show a completed project",
+    "category": "Trust",
+    "action": "Choose a real project and explain what you did without overstating results.",
+    "status": "draft action"
+  },
+  {
+    "number": 43,
+    "title": "Explain your role",
+    "category": "Trust",
+    "action": "On one portfolio example, name the parts your team actually handled.",
+    "status": "draft action"
+  },
+  {
+    "number": 44,
+    "title": "Add a real team introduction",
+    "category": "Trust",
+    "action": "Write a short introduction for someone customers will actually work with.",
+    "status": "draft action"
+  },
+  {
+    "number": 45,
+    "title": "Check a public claim",
+    "category": "Trust",
+    "action": "Find one number or claim on your site and confirm that you can support it.",
+    "status": "draft action"
+  },
+  {
+    "number": 46,
+    "title": "Show your process",
+    "category": "Trust",
+    "action": "Share a simple picture or explanation of how you perform a service.",
+    "status": "draft action"
+  },
+  {
+    "number": 47,
+    "title": "Update an old portfolio item",
+    "category": "Trust",
+    "action": "Check that a project link and description are still accurate.",
+    "status": "draft action"
+  },
+  {
+    "number": 48,
+    "title": "Add a useful customer question",
+    "category": "Trust",
+    "action": "Publish an answer to a real question from a recent customer.",
+    "status": "draft action"
+  },
+  {
+    "number": 49,
+    "title": "Clarify a service limitation",
+    "category": "Trust",
+    "action": "Tell customers about one boundary that helps them decide if you are a fit.",
+    "status": "draft action"
+  },
+  {
+    "number": 50,
+    "title": "Ask why someone chose you",
+    "category": "Trust",
+    "action": "Ask a willing customer what helped them decide and record their exact answer privately.",
+    "status": "draft action"
+  },
+  {
+    "number": 51,
+    "title": "List ten customer questions",
+    "category": "Content",
+    "action": "Write down ten questions customers ask before they buy.",
+    "status": "draft action"
+  },
+  {
+    "number": 52,
+    "title": "Answer one question in a post",
+    "category": "Content",
+    "action": "Pick one question and write a short, useful answer with a practical next step.",
+    "status": "draft action"
+  },
+  {
+    "number": 53,
+    "title": "Create a before-and-after explanation",
+    "category": "Content",
+    "action": "Describe a real change you made, with permission and accurate context.",
+    "status": "draft action"
+  },
+  {
+    "number": 54,
+    "title": "Write a seasonal reminder",
+    "category": "Content",
+    "action": "Share one useful tip related to the next season your customers prepare for.",
+    "status": "draft action"
+  },
+  {
+    "number": 55,
+    "title": "Repurpose a useful answer",
+    "category": "Content",
+    "action": "Turn an existing answer into a short post for one channel your customers use.",
+    "status": "draft action"
+  },
+  {
+    "number": 56,
+    "title": "Add a clear next step to a post",
+    "category": "Content",
+    "action": "Link one helpful article to the related service or contact action.",
+    "status": "draft action"
+  },
+  {
+    "number": 57,
+    "title": "Update an old article",
+    "category": "Content",
+    "action": "Check dates, links, and facts in one older post and correct outdated information.",
+    "status": "draft action"
+  },
+  {
+    "number": 58,
+    "title": "Make a content list you can keep",
+    "category": "Content",
+    "action": "Choose four useful topics you can realistically publish over the next month.",
+    "status": "draft action"
+  },
+  {
+    "number": 59,
+    "title": "Use your customer\u2019s language",
+    "category": "Content",
+    "action": "Replace one technical term with the wording a customer used in a question.",
+    "status": "draft action"
+  },
+  {
+    "number": 60,
+    "title": "Share a useful checklist",
+    "category": "Content",
+    "action": "Write three steps a customer can follow to prepare for your service.",
+    "status": "draft action"
+  },
+  {
+    "number": 61,
+    "title": "Choose an email signup benefit",
+    "category": "Email",
+    "action": "Write down exactly what someone gets by joining your email list.",
+    "status": "draft action"
+  },
+  {
+    "number": 62,
+    "title": "Write a clear signup invitation",
+    "category": "Email",
+    "action": "Explain the content and frequency people can expect before they subscribe.",
+    "status": "draft action"
+  },
+  {
+    "number": 63,
+    "title": "Review your consent wording",
+    "category": "Email",
+    "action": "Check that signup language describes the messages you intend to send.",
+    "status": "draft action"
+  },
+  {
+    "number": 64,
+    "title": "Write your welcome email",
+    "category": "Email",
+    "action": "Thank the subscriber, deliver the promised resource, and explain what comes next.",
+    "status": "draft action"
+  },
+  {
+    "number": 65,
+    "title": "Test your signup form",
+    "category": "Email",
+    "action": "Subscribe with your own test address and verify the confirmation and delivery.",
+    "status": "draft action"
+  },
+  {
+    "number": 66,
+    "title": "Check the unsubscribe path",
+    "category": "Email",
+    "action": "Use a test subscription to confirm someone can easily stop receiving emails.",
+    "status": "draft action"
+  },
+  {
+    "number": 67,
+    "title": "Write one useful email",
+    "category": "Email",
+    "action": "Answer one customer question and include a single relevant next step.",
+    "status": "draft action"
+  },
+  {
+    "number": 68,
+    "title": "Segment by stated interest",
+    "category": "Email",
+    "action": "Use interests subscribers willingly provided to make one message more relevant.",
+    "status": "draft action"
+  },
+  {
+    "number": 69,
+    "title": "Remove an outdated promise",
+    "category": "Email",
+    "action": "Check your signup offer and remove anything you no longer deliver.",
+    "status": "draft action"
+  },
+  {
+    "number": 70,
+    "title": "Check your reply address",
+    "category": "Email",
+    "action": "Reply to your own test newsletter and confirm it reaches a monitored inbox.",
+    "status": "draft action"
+  },
+  {
+    "number": 71,
+    "title": "Write a 30-second introduction",
+    "category": "Video and audio",
+    "action": "Name who you help, their problem, and the next step in a short script.",
+    "status": "draft action"
+  },
+  {
+    "number": 72,
+    "title": "Record a simple introduction",
+    "category": "Video and audio",
+    "action": "Use your phone to record the script somewhere quiet with good light.",
+    "status": "draft action"
+  },
+  {
+    "number": 73,
+    "title": "Caption your video",
+    "category": "Video and audio",
+    "action": "Add accurate captions and check names, prices, and service terms.",
+    "status": "draft action"
+  },
+  {
+    "number": 74,
+    "title": "Add a video transcript",
+    "category": "Video and audio",
+    "action": "Publish a readable text version next to a useful business video.",
+    "status": "draft action"
+  },
+  {
+    "number": 75,
+    "title": "Answer one question on camera",
+    "category": "Video and audio",
+    "action": "Record a brief answer to a real customer question.",
+    "status": "draft action"
+  },
+  {
+    "number": 76,
+    "title": "Check your video on mobile",
+    "category": "Video and audio",
+    "action": "Play your video on a phone and verify that controls and captions work.",
+    "status": "draft action"
+  },
+  {
+    "number": 77,
+    "title": "Plan a short podcast episode",
+    "category": "Video and audio",
+    "action": "Pick one customer problem and outline an answer with a practical action.",
+    "status": "draft action"
+  },
+  {
+    "number": 78,
+    "title": "Ask a guest for permission",
+    "category": "Video and audio",
+    "action": "Confirm a guest is comfortable with recording and your intended publication.",
+    "status": "draft action"
+  },
+  {
+    "number": 79,
+    "title": "Make a useful episode title",
+    "category": "Video and audio",
+    "action": "Name the problem or outcome discussed instead of using only an episode number.",
+    "status": "draft action"
+  },
+  {
+    "number": 80,
+    "title": "Add links to an episode",
+    "category": "Video and audio",
+    "action": "Include the resources actually mentioned in the recording.",
+    "status": "draft action"
+  },
+  {
+    "number": 81,
+    "title": "Count your recent inquiries",
+    "category": "Measurement",
+    "action": "Count inquiries over a representative period and note the source of the count.",
+    "status": "draft action"
+  },
+  {
+    "number": 82,
+    "title": "Define a qualified inquiry",
+    "category": "Measurement",
+    "action": "Write a simple definition of the kind of inquiry your business can serve.",
+    "status": "draft action"
+  },
+  {
+    "number": 83,
+    "title": "Track booked appointments",
+    "category": "Measurement",
+    "action": "Record appointments using a consistent definition and time period.",
+    "status": "draft action"
+  },
+  {
+    "number": 84,
+    "title": "Ask how customers found you",
+    "category": "Measurement",
+    "action": "Add a simple source question to your normal customer conversation.",
+    "status": "draft action"
+  },
+  {
+    "number": 85,
+    "title": "Review one stalled inquiry",
+    "category": "Measurement",
+    "action": "Look at a recent inquiry that did not progress and identify one possible obstacle.",
+    "status": "draft action"
+  },
+  {
+    "number": 86,
+    "title": "Compare like-for-like periods",
+    "category": "Measurement",
+    "action": "Compare results across similar time periods, noting seasonality and changes.",
+    "status": "draft action"
+  },
+  {
+    "number": 87,
+    "title": "Check campaign link labels",
+    "category": "Measurement",
+    "action": "Use consistent campaign labels so incoming traffic can be understood.",
+    "status": "draft action"
+  },
+  {
+    "number": 88,
+    "title": "Record a marketing change",
+    "category": "Measurement",
+    "action": "Write down what changed and when so later comparisons have context.",
+    "status": "draft action"
+  },
+  {
+    "number": 89,
+    "title": "Review one conversion path",
+    "category": "Measurement",
+    "action": "Follow one path from a visitor\u2019s first page to a completed inquiry.",
+    "status": "draft action"
+  },
+  {
+    "number": 90,
+    "title": "Set a monthly review date",
+    "category": "Measurement",
+    "action": "Choose a date to review inquiries, bookings, and the work completed.",
+    "status": "draft action"
+  },
+  {
+    "number": 91,
+    "title": "List your marketing tasks",
+    "category": "Planning",
+    "action": "Write the tasks you keep postponing, without trying to solve all of them.",
+    "status": "draft action"
+  },
+  {
+    "number": 92,
+    "title": "Choose one task to finish",
+    "category": "Planning",
+    "action": "Pick a small task connected to your current business goal.",
+    "status": "draft action"
+  },
+  {
+    "number": 93,
+    "title": "Estimate your available time",
+    "category": "Planning",
+    "action": "Set a realistic amount of time you can spend on marketing this week.",
+    "status": "draft action"
+  },
+  {
+    "number": 94,
+    "title": "Name your most useful offer",
+    "category": "Planning",
+    "action": "Choose an offer that serves customers well and fits your business capacity.",
+    "status": "draft action"
+  },
+  {
+    "number": 95,
+    "title": "Check your booking capacity",
+    "category": "Planning",
+    "action": "Decide how much new work your team can handle before increasing promotion.",
+    "status": "draft action"
+  },
+  {
+    "number": 96,
+    "title": "Plan a simple customer interview",
+    "category": "Planning",
+    "action": "Write five open questions about the customer\u2019s needs and decision process.",
+    "status": "draft action"
+  },
+  {
+    "number": 97,
+    "title": "Set a clear project scope",
+    "category": "Planning",
+    "action": "Write the deliverable, who approves it, and what counts as finished.",
+    "status": "draft action"
+  },
+  {
+    "number": 98,
+    "title": "Review recurring services",
+    "category": "Planning",
+    "action": "Check what each recurring marketing service provides and whether you still need it.",
+    "status": "draft action"
+  },
+  {
+    "number": 99,
+    "title": "Document a repeatable task",
+    "category": "Planning",
+    "action": "Write the steps for one task you or your team perform every month.",
+    "status": "draft action"
+  },
+  {
+    "number": 100,
+    "title": "Choose next month\u2019s focus",
+    "category": "Planning",
+    "action": "Review what worked and choose the next priority tied to your business goal.",
+    "status": "draft action"
+  }
+]
