@@ -14,13 +14,13 @@ The `codex/staging` branch contains V2. It is not deployed by the production wor
 
 ## Launch decisions
 
-Confirm the inquiry email, plan pricing and scope. The original notes propose an included website, branding, hosting, voice editor, and a 30-day guarantee. Those promises need defined scope and an available editor before publishing them. They are not advertised as currently delivered here. No doubled-revenue claim or made-up customer result is used.
+Confirm the inquiry email, plan pricing and scope. The monthly plan inclusions and 30-day love-the-work-or-do-not-pay promise now follow Jesse’s planning document. Scope is agreed before starting. The 100-business revenue goal is explicitly a mission rather than a achieved result or promise to individual customers. The voice editor remains a future service pending a working editor. No made-up customer result is used.
 
 Connect an email provider and inquiry endpoint if direct web submissions are desired. V2 email access needs server-side verification and protected content storage outside the public GitHub Pages repository. Browser storage is not an access gate. Podcast and video players require Jesse’s actual media assets.
 
 ## Design references and assets
 
-Palette sampled from JesseHall.com Elementor global CSS: yellow #F8C805, peach #FFBC7D, charcoal, white. Awwwards MCP references: CoMinVi for confident typography and Jesper Landberg for project presentation. Mobbin tools were not available in this session. Logo supplied by Jesse. Jesse portrait and portfolio screenshots copied from JesseHall.com with authorization. Mary Pratt quote excerpt and attribution from JesseHall.com. Google Fonts: Space Grotesk and DM Sans. No Envato stock assets used.
+Palette sampled from JesseHall.com Elementor global CSS: yellow #F8C805, peach #FFBC7D, charcoal, white. Awwwards MCP references: CoMinVi for confident typography and Jesper Landberg for project presentation. Mobbin tools were not available in this session. Logo supplied by Jesse. Jesse portrait and portfolio screenshots copied from JesseHall.com with authorization. Mary Pratt quote excerpt and attribution from JesseHall.com. Google Fonts: Space Grotesk and DM Sans. Two Unsplash photos illustrate small business life. They are not labeled as actual customers. Real customer portraits from JesseHall.com accompany testimonials. Two Google review excerpts and the current 5.0 / 3-review rating were verified on the exact Big Drum listing on September 30, 2026. Full provenance is in content/source-credits.json. No Envato stock assets used.
 
 ## Copy structure
 
