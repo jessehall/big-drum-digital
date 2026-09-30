@@ -34,6 +34,12 @@
       ],
       "source": "https://bigdrumdigital.com/",
       "use": "Actual Big Drum project images, authorized by site owner"
+    },
+    {
+      "file": "assets/jesse-video-poster.jpg",
+      "source": "https://www.youtube.com/watch?v=0cVuVnq3oGE",
+      "thumbnail_source": "https://i1.ytimg.com/vi/0cVuVnq3oGE/hqdefault.jpg",
+      "use": "Jesse’s supplied Big Drum Digital video, local poster for click-to-play introduction"
     }
   ],
   "reviews": [
@@ -69,5 +75,22 @@
     "review_count": 3,
     "verified_against": "Website bigdrumdigital.com, Chico, phone (971) 313-1574",
     "address_discrepancy": "Google W 3rd St vs existing website E 3rd St. No street address published in revised site."
-  }
+  },
+  "design_references": [
+    {
+      "site": "Oevra",
+      "source": "https://mobbin.com/sites/sections/f5b6e855-1c7a-4b6c-9a4b-a79738cfeff4",
+      "use": "Small founder media and open space around the introduction"
+    },
+    {
+      "site": "OFF+BRAND",
+      "source": "https://mobbin.com/sites/sections/0b70740a-eb7a-415b-b48d-09d66ce3ec38",
+      "use": "Project presentation and restrained supporting type"
+    },
+    {
+      "site": "basement.studio",
+      "source": "https://mobbin.com/sites/sections/caa1a6b1-4b01-4b6a-8d30-df5454015bbf",
+      "use": "Strong headings with compact supporting image and copy"
+    }
+  ]
 }
