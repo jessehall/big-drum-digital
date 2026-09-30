@@ -1,0 +1,73 @@
+{
+  "checked": "2026-09-30",
+  "photos": [
+    {
+      "file": "assets/barista.jpg",
+      "source": "https://unsplash.com/photos/a-smiling-barista-stands-behind-a-coffee-counter-G9ztFdyrtoI",
+      "photographer": "Brooke Balentine",
+      "license": "https://unsplash.com/license",
+      "use": "General small business illustration, not a Big Drum customer"
+    },
+    {
+      "file": "assets/cafe.jpg",
+      "source": "https://unsplash.com/photos/two-people-working-behind-a-counter-in-a-cafe-2e-Gtx74Oe8",
+      "photographer": "yan kolesnyk",
+      "license": "https://unsplash.com/license",
+      "use": "General small business illustration, not a Big Drum customer"
+    },
+    {
+      "files": [
+        "assets/diana-zalucky.jpg",
+        "assets/mary-pratt.jpg",
+        "assets/david-philhour.jpg",
+        "assets/theo-chilicas.jpg",
+        "assets/jesse.jpg"
+      ],
+      "source": "https://jessehall.com/",
+      "use": "Actual people and customer testimonials, authorized by site owner"
+    },
+    {
+      "files": [
+        "assets/linked-ag.jpg",
+        "assets/spotlight-careers.jpg",
+        "assets/gcsit.jpg"
+      ],
+      "source": "https://bigdrumdigital.com/",
+      "use": "Actual Big Drum project images, authorized by site owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "katie baum",
+      "quote": "They are organized and quick to help whenever we need their assistance.",
+      "source": "https://www.google.com/maps/contrib/107097001711105003673/reviews?hl=en"
+    },
+    {
+      "name": "K Kooi",
+      "quote": "I would highly recommend Big Drum Digital.",
+      "source": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s118338501112644265660!2s0x80832797db570393:0xfc2b6ecab6a33471"
+    },
+    {
+      "name": "Diana Zalucky",
+      "quote": "you have gone above and beyond for me.",
+      "source": "https://jessehall.com/"
+    },
+    {
+      "name": "David Philhour",
+      "quote": "Jesse’s team delivered on time and on budget.",
+      "source": "https://jessehall.com/"
+    },
+    {
+      "name": "Mary Pratt",
+      "quote": "his approach is calm and precise.",
+      "source": "https://jessehall.com/"
+    }
+  ],
+  "google_listing": {
+    "url": "https://www.google.com/maps/place/Big+Drum+Digital/data=!4m2!3m1!1s0x0:0xfc2b6ecab6a33471",
+    "rating": "5.0",
+    "review_count": 3,
+    "verified_against": "Website bigdrumdigital.com, Chico, phone (971) 313-1574",
+    "address_discrepancy": "Google W 3rd St vs existing website E 3rd St. No street address published in revised site."
+  }
+}
