@@ -17,7 +17,7 @@ h3{letter-spacing:-.025em}
 .eyebrow{font-size:11px;letter-spacing:.12em;line-height:1.4}
 .nav{min-height:96px}
 .logo{width:245px;height:62px}
-.logo img{width:120%;max-width:none;flex:none;margin-left:-10%}
+.logo img{width:100%;max-width:none;flex:none;margin-left:0}
 .navlinks{font-size:13px;gap:28px}
 .btn{border-radius:3px;padding:14px 21px;font-size:13px;font-weight:600}
 .hero{padding:78px 0 80px}
