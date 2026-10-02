@@ -124,5 +124,10 @@
     "file": "assets/big-drum-logo-new.png",
     "source": "Logo-new.png supplied by Jesse on October 2, 2026",
     "use": "Live website header logo"
+  },
+  "live_favicon": {
+    "file": "assets/favicon.svg",
+    "source": "Center drum icon from Logo-new.png supplied by Jesse",
+    "use": "Standalone vector favicon with the circle and its upper and lower waves"
   }
 }
