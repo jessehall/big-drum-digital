@@ -7,14 +7,14 @@ import sys
 
 root = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).resolve().parents[1]
 versions = {name: hashlib.sha256((root / name).read_bytes()).hexdigest()[:12]
-            for name in ("styles.css", "app.js", "assets/favicon.svg")}
+            for name in ("styles.css", "app.js", "assets/favicon.svg", "about/about.css")}
 pattern = re.compile(r"\b(href|src)=([\"'])([^\"']+)\2")
 
 def stamp(match):
     attribute, quote, value = match.groups()
     path = value.split("?", 1)[0]
     for name, version in versions.items():
-        if path == name or path.endswith("/" + name):
+        if path == name or path.endswith("/" + name) or (name == "about/about.css" and path == "about.css"):
             return f"{attribute}={quote}{path}?v={version}{quote}"
     return match.group(0)
 

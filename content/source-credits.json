@@ -48,6 +48,11 @@
       ],
       "source": "Photos supplied by Jesse on September 30, 2026",
       "use": "Katie Baum and Kris Kooi customer portraits, with CSS framing for the reviews"
+    },
+    {
+      "file": "assets/hero-grey.jpg",
+      "source": "https://jessehall.com/wp-content/uploads/2025/12/warpLight-bg-1536x1025.jpg",
+      "use": "Exact JesseHall.com hero background, over #F5F3EF at 15% opacity, authorized by site owner"
     }
   ],
   "reviews": [
@@ -123,6 +128,11 @@
       "site": "Patreon",
       "source": "https://mobbin.com/sites/sections/3cc624bd-6244-4288-9776-852bd7ca4a94",
       "use": "Centered filled buttons with larger labels, without arrows or dark borders"
+    },
+    {
+      "site": "Analogue Agency",
+      "source": "https://mobbin.com/sites/sections/0321337d-3daa-4561-930a-b3ccef054aca",
+      "use": "Compact portraits with clear names and roles, generous whitespace, restrained type and neutral background."
     }
   ],
   "brand_mark": {
@@ -139,5 +149,63 @@
     "file": "assets/favicon.svg",
     "source": "Center drum icon from Logo-new.png supplied by Jesse",
     "use": "Standalone vector favicon with the circle and its upper and lower waves"
+  },
+  "about_page": {
+    "source": "https://jessehall.com/",
+    "founder_image": {
+      "local": "assets/jesse.jpg",
+      "url": "https://jessehall.com/wp-content/uploads/2025/12/Jesse-higher-res-2.jpg"
+    },
+    "team": [
+      {
+        "name": "Juan A.",
+        "role": "Full stack developer",
+        "local": "assets/team/juan.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/juan-300x279.jpg"
+      },
+      {
+        "name": "Alejandra R.",
+        "role": "Graphic Designer, UX/UI",
+        "local": "assets/team/alejandra.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/alejandra-e1764675884310-300x300.jpg"
+      },
+      {
+        "name": "Justin P.",
+        "role": "Motion Graphics",
+        "local": "assets/team/justin.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/justin-300x300.jpg"
+      },
+      {
+        "name": "Diego R.",
+        "role": "Full stack developer",
+        "local": "assets/team/diego.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/diego-300x300.jpg"
+      },
+      {
+        "name": "Jose M.",
+        "role": "Full stack developer",
+        "local": "assets/team/jose.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/jose-m-e1764677367567-300x280.jpg"
+      },
+      {
+        "name": "David P.",
+        "role": "Full stack developer",
+        "local": "assets/team/david.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/esgard-300x278.jpg"
+      },
+      {
+        "name": "Chris S.",
+        "role": "Full stack developer",
+        "local": "assets/team/chris.jpg",
+        "url": "https://jessehall.com/wp-content/uploads/2025/12/chirs-300x300.jpg"
+      }
+    ],
+    "award": {
+      "claim": "Jesse Hall received a national award from PDN magazine for \"Best Web Design\"",
+      "local": "assets/award/pdn-award.png",
+      "image_url": "https://jessehall.com/wp-content/uploads/2025/12/PDN-award-1024x683.png",
+      "source": "https://jessehall.com/",
+      "uncertainty": "No award year stated in source text. Page deliberately omits a year."
+    }
   }
 }
