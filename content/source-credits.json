@@ -113,6 +113,11 @@
       "site": "basement.studio",
       "source": "https://mobbin.com/sites/sections/caa1a6b1-4b01-4b6a-8d30-df5454015bbf",
       "use": "Strong headings with compact supporting image and copy"
+    },
+    {
+      "site": "Contractbook",
+      "source": "https://mobbin.com/sites/sections/22e02a71-6c37-423d-b199-0cf6ca2a9497",
+      "use": "Centered headline, prominent video, and a single CTA with supporting details below the hero"
     }
   ],
   "brand_mark": {

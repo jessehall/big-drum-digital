@@ -10,13 +10,13 @@ Homepage, ten complete free tutorials, searchable learning index, pricing from J
 
 Choose the destination repository, authenticate GitHub CLI, add the remote, and push main. In repository Settings → Pages, select GitHub Actions. The included workflow publishes only public website files. No custom domain file is included because the existing bigdrumdigital.com website must not be replaced until the destination is confirmed. Add CNAME and configure DNS when ready.
 
-The `codex/staging` branch contains B. It is deployed independently in the big-drum-digital-staging repository. Production A retains the original homepage and ten free tutorials. Both versions use clean directory URLs and a 160ms native crossfade where the browser supports it. Existing .html tutorial and privacy links redirect to their clean addresses.
+The `codex/staging` branch contains B. It is deployed independently in the big-drum-digital-staging repository. Production A uses the approved headline, video, and CTA hero from B, while retaining its live logo, remaining homepage sections, and ten free tutorials. Both versions use clean directory URLs and a 160ms native crossfade where the browser supports it. Existing .html tutorial and privacy links redirect to their clean addresses.
 
 ## Launch decisions
 
 Confirm the inquiry email, plan pricing and scope. The monthly plan inclusions and 30-day love-the-work-or-do-not-pay promise now follow Jesse’s planning document. Scope is agreed before starting. The 100-business revenue goal is explicitly a mission rather than a achieved result or promise to individual customers. The voice editor remains a future service pending a working editor. No made-up customer result is used.
 
-Connect an email provider and inquiry endpoint if direct web submissions are desired. V2 email access needs server-side verification and protected content storage outside the public GitHub Pages repository. Browser storage is not an access gate. The homepage includes Jesse’s 80-second YouTube introduction. Its local thumbnail opens a privacy-enhanced player only when clicked. Podcast content still needs Jesse’s actual media assets.
+Connect an email provider and inquiry endpoint if direct web submissions are desired. V2 email access needs server-side verification and protected content storage outside the public GitHub Pages repository. Browser storage is not an access gate. The homepage includes Jesse’s 80-second YouTube introduction. The hero uses a direct privacy-enhanced player for one-click playback. The About section retains its local click-to-load thumbnail. Podcast content still needs Jesse’s actual media assets.
 
 ## Design references and assets
 
