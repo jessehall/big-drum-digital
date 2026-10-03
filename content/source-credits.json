@@ -118,6 +118,11 @@
       "site": "Contractbook",
       "source": "https://mobbin.com/sites/sections/22e02a71-6c37-423d-b199-0cf6ca2a9497",
       "use": "Centered headline, prominent video, and a single CTA with supporting details below the hero"
+    },
+    {
+      "site": "Patreon",
+      "source": "https://mobbin.com/sites/sections/3cc624bd-6244-4288-9776-852bd7ca4a94",
+      "use": "Centered filled buttons with larger labels, without arrows or dark borders"
     }
   ],
   "brand_mark": {
