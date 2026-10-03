@@ -235,3 +235,8 @@ h3{letter-spacing:-.025em}
 /* Jesse Hall's soft grey hero background. */
 .hero-conversion{width:100%;padding-left:5%;padding-right:5%;background:#f5f3ef;isolation:isolate}
 .hero-conversion::before{content:'';position:absolute;inset:0;background:url('assets/hero-grey.jpg') top center/cover;opacity:.15;z-index:-1;pointer-events:none}
+
+/* Matching service icons, independent of font glyphs. */
+.service .icon{display:flex;align-items:center;height:40px;margin-bottom:24px;color:var(--ink)}
+.service-icon{display:block;width:40px;height:40px;flex:none}
+@media(max-width:700px){.service .icon{margin-bottom:18px}}
